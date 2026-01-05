@@ -1,5 +1,13 @@
 # Hi there 👋
 
+![Python](https://img.shields.io/badge/Python-Scientific-blue)
+![LaTeX](https://img.shields.io/badge/LaTeX-Academic-green)
+![Linux](https://img.shields.io/badge/Linux-Operating%20System-black)
+![C](https://img.shields.io/badge/C-Programming%20Language-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-Programming%20Language-blue)
+![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-lightgrey)
+![Mathematica](https://img.shields.io/badge/Mathematica-Scientific%20Computing-red)
+
 I’m a physics researcher working on **cosmology and gravitational waves**, currently working on the **stochastic gravitational wave background (SGWB)**.
 I use this space to share research code, notes, and experiments related to theoretical
 physics and scientific computing.
@@ -55,14 +63,6 @@ I value:
 
 
 <!--### 🛠️ Technologies & Tools-->
-
-![Python](https://img.shields.io/badge/Python-Scientific-blue)
-![LaTeX](https://img.shields.io/badge/LaTeX-Academic-green)
-![Linux](https://img.shields.io/badge/Linux-Operating%20System-black)
-![C](https://img.shields.io/badge/C-Programming%20Language-blue)
-![C++](https://img.shields.io/badge/C%2B%2B-Programming%20Language-blue)
-![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-lightgrey)
-![Mathematica](https://img.shields.io/badge/Mathematica-Scientific%20Computing-red)
 
 
 <!--
