@@ -1,9 +1,6 @@
 # Hi there 👋
 
-I am a physics researcher with a focus on **cosmology and gravitational waves**, currently working on the **stochastic gravitational wave background (SGWB)**. My academic interests lie at the intersection of **theoretical physics, data analysis, and scientific computing**. In parallel with research, I have teaching experience in undergraduate physics and enjoy translating complex physical concepts into clear, structured explanations.
-
-
-👋 Hi! I’m Mahyar — a physics researcher working on cosmology and gravitational waves.  
+I’m a physics researcher working on **cosmology and gravitational waves**, currently working on the **stochastic gravitational wave background (SGWB)**.
 I use this space to share research code, notes, and experiments related to theoretical
 physics and scientific computing.
 
@@ -14,6 +11,8 @@ physics and scientific computing.
 - Statistical field theory
 - Gravitational wave data analysis
 - Large-scale structure and cosmological perturbation theory
+- data analysis
+- scientific computing
 
 ## Academic & Teaching Experience
 - Teaching Assistant — *Elementary Physics I (2 courses), computer programming, statistical mechanics* (Undergraduate level)
