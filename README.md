@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 
 
@@ -15,7 +15,7 @@ I am a physics researcher with a focus on **cosmology and gravitational waves**,
 - Large-scale structure and cosmological perturbation theory
 
 ## Academic & Teaching Experience
-- Teaching Assistant — *Elementary Physics I* (Undergraduate level)
+- Teaching Assistant — *Elementary Physics I (2 courses), computer programming, statistical mechanics* (Undergraduate level)
 - Experience in problem-solving sessions, grading, and concept-driven instruction
 - Strong interest in pedagogical clarity and physics education
 
