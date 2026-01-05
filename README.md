@@ -54,8 +54,11 @@ I value:
 
 
 
-### 🛠️ Technologies & Tools
+<!--### 🛠️ Technologies & Tools-->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-Scientific-blue)
+![LaTeX](https://img.shields.io/badge/LaTeX-Academic-green)
 
 
 <!--
